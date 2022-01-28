@@ -1,3 +1,4 @@
+jupyterlab-link-share
 matplotlib
 openpyxl
 pandas
